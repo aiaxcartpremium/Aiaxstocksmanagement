@@ -1,0 +1,11 @@
+{
+  "meta": { "updated_at": "2025-12-30T00:00:00Z" },
+  "stats": {
+    "tg_sales": 0,
+    "manual_sales": 0,
+    "available_stocks": 0,
+    "revenue": 0
+  },
+  "recent_sales": [],
+  "low_stock": []
+}
